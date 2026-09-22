@@ -11676,7 +11676,7 @@
 "year": 2003,
 "type": "Movie",
 "format": "DVD",
-"copies": 2,
+"copies": 1,
 "genres": [
 "Western",
 "Drama"
@@ -11689,7 +11689,6 @@
 "director": "Kevin Costner",
 "series": "",
 "photo": [
-17,
 25
 ],
 "note": "",
@@ -24210,6 +24209,675 @@
 "series": "",
 "photo": [
 30
+],
+"note": "",
+"check": false
+},
+{
+"id": 1012,
+"title": "Open Water",
+"year": 2003,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Drama",
+"Horror",
+"Thriller"
+],
+"actors": [
+"Blanchard Ryan",
+"Daniel Travis",
+"Saul Stein"
+],
+"director": "Chris Kentis",
+"series": "",
+"photo": [
+32
+],
+"note": "",
+"check": false
+},
+{
+"id": 1013,
+"title": "Taxicab Confessions",
+"year": 1995,
+"type": "TV",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Documentary",
+"Reality"
+],
+"actors": [],
+"director": "",
+"series": "",
+"photo": [
+32
+],
+"note": "HBO",
+"check": false
+},
+{
+"id": 1014,
+"title": "Fahrenheit 9/11",
+"year": 2004,
+"type": "Documentary",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Documentary",
+"Politics"
+],
+"actors": [
+"Michael Moore"
+],
+"director": "Michael Moore",
+"series": "",
+"photo": [
+32
+],
+"note": "",
+"check": false
+},
+{
+"id": 1015,
+"title": "300",
+"year": 2006,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Action",
+"Fantasy",
+"War"
+],
+"actors": [
+"Gerard Butler",
+"Lena Headey",
+"David Wenham"
+],
+"director": "Zack Snyder",
+"series": "",
+"photo": [
+32
+],
+"note": "",
+"check": false
+},
+{
+"id": 1016,
+"title": "Safe",
+"year": 2012,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Action",
+"Crime",
+"Thriller"
+],
+"actors": [
+"Jason Statham",
+"Catherine Chan",
+"Chris Sarandon"
+],
+"director": "Boaz Yakin",
+"series": "",
+"photo": [
+32
+],
+"note": "",
+"check": false
+},
+{
+"id": 1017,
+"title": "Dolly Parton's Coat of Many Colors",
+"year": 2015,
+"type": "TV",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Drama",
+"Family",
+"Music"
+],
+"actors": [
+"Alyvia Alyn Lind",
+"Jennifer Nettles",
+"Ricky Schroder"
+],
+"director": "Stephen Herek",
+"series": "",
+"photo": [
+31
+],
+"note": "",
+"check": false
+},
+{
+"id": 1018,
+"title": "Twilight",
+"year": 2008,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Drama",
+"Fantasy",
+"Romance"
+],
+"actors": [
+"Kristen Stewart",
+"Robert Pattinson",
+"Billy Burke"
+],
+"director": "Catherine Hardwicke",
+"series": "Twilight",
+"photo": [
+31
+],
+"note": "",
+"check": false
+},
+{
+"id": 1019,
+"title": "The Worst of American Idol: Seasons 1-4",
+"year": 2005,
+"type": "TV",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Reality",
+"Comedy"
+],
+"actors": [
+"Simon Cowell",
+"Paula Abdul",
+"Randy Jackson"
+],
+"director": "",
+"series": "",
+"photo": [
+31
+],
+"note": "",
+"check": false
+},
+{
+"id": 1020,
+"title": "The Lucy Show",
+"year": 1962,
+"type": "TV",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Comedy",
+"Sitcom"
+],
+"actors": [
+"Lucille Ball",
+"Vivian Vance",
+"Gale Gordon"
+],
+"director": "",
+"series": "",
+"photo": [
+31
+],
+"note": "",
+"check": false
+},
+{
+"id": 1021,
+"title": "Tracks of the Beaver",
+"year": 2005,
+"type": "Documentary",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Documentary",
+"Trains"
+],
+"actors": [],
+"director": "",
+"series": "Canadian Pacific",
+"photo": [
+31
+],
+"note": "through the Rockies & Selkirks",
+"check": false
+},
+{
+"id": 1022,
+"title": "Canadian Pacific's Mountain Sub & Rogers Pass",
+"year": 2005,
+"type": "Documentary",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Documentary",
+"Trains"
+],
+"actors": [],
+"director": "",
+"series": "Canadian Pacific",
+"photo": [
+31
+],
+"note": "",
+"check": false
+},
+{
+"id": 1023,
+"title": "Whale Wars",
+"year": 2008,
+"type": "TV",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Reality",
+"Documentary"
+],
+"actors": [
+"Paul Watson"
+],
+"director": "",
+"series": "Season 1",
+"photo": [
+31
+],
+"note": "2-DVD set",
+"check": false
+},
+{
+"id": 1024,
+"title": "The Nativity Story",
+"year": 2006,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Drama",
+"Religious"
+],
+"actors": [
+"Keisha Castle-Hughes",
+"Oscar Isaac",
+"Shohreh Aghdashloo"
+],
+"director": "Catherine Hardwicke",
+"series": "",
+"photo": [
+31
+],
+"note": "",
+"check": false
+},
+{
+"id": 1025,
+"title": "The Last Starfighter",
+"year": 1984,
+"type": "Movie",
+"format": "HD DVD",
+"copies": 1,
+"genres": [
+"Adventure",
+"Sci-Fi"
+],
+"actors": [
+"Lance Guest",
+"Robert Preston",
+"Catherine Mary Stewart"
+],
+"director": "Nick Castle",
+"series": "",
+"photo": [
+33
+],
+"note": "",
+"check": false
+},
+{
+"id": 1026,
+"title": "John Wick: 2-Film Collection",
+"year": 2014,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Action",
+"Crime",
+"Thriller"
+],
+"actors": [
+"Keanu Reeves",
+"Ian McShane",
+"Common"
+],
+"director": "Chad Stahelski",
+"series": "John Wick",
+"photo": [
+33
+],
+"note": "John Wick 1 & 2 - extra copies",
+"check": false
+},
+{
+"id": 1027,
+"title": "The Book of Eli",
+"year": 2010,
+"type": "Movie",
+"format": "Blu-ray",
+"copies": 1,
+"genres": [
+"Action",
+"Adventure",
+"Post-Apocalyptic"
+],
+"actors": [
+"Denzel Washington",
+"Gary Oldman",
+"Mila Kunis"
+],
+"director": "Albert Hughes;Allen Hughes",
+"series": "",
+"photo": [
+33
+],
+"note": "",
+"check": false
+},
+{
+"id": 1028,
+"title": "Aguirre, the Wrath of God",
+"year": 1972,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Adventure",
+"Drama",
+"History"
+],
+"actors": [
+"Klaus Kinski",
+"Helena Rojo",
+"Del Negro"
+],
+"director": "Werner Herzog",
+"series": "",
+"photo": [
+33
+],
+"note": "",
+"check": false
+},
+{
+"id": 1029,
+"title": "The DragonPhoenix Chronicles: Indomitable",
+"year": 2013,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Action",
+"Fantasy"
+],
+"actors": [
+"Daniel Sadler",
+"Amber Cable",
+"Mikey Sadler"
+],
+"director": "Edward Sadler",
+"series": "",
+"photo": [
+33
+],
+"note": "",
+"check": false
+},
+{
+"id": 1030,
+"title": "The Marksman",
+"year": 2021,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Action",
+"Thriller"
+],
+"actors": [
+"Liam Neeson",
+"Katheryn Winnick",
+"Juan Pablo Raba"
+],
+"director": "Robert Lorenz",
+"series": "",
+"photo": [
+33
+],
+"note": "",
+"check": false
+},
+{
+"id": 1031,
+"title": "Gunless",
+"year": 2010,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Comedy",
+"Western"
+],
+"actors": [
+"Paul Gross",
+"Sienna Guillory",
+"Dustin Milligan"
+],
+"director": "William Phillips",
+"series": "",
+"photo": [
+33
+],
+"note": "",
+"check": false
+},
+{
+"id": 1032,
+"title": "Flight",
+"year": 2012,
+"type": "Movie",
+"format": "Blu-ray",
+"copies": 1,
+"genres": [
+"Drama"
+],
+"actors": [
+"Denzel Washington",
+"Don Cheadle",
+"Kelly Reilly"
+],
+"director": "Robert Zemeckis",
+"series": "",
+"photo": [
+33
+],
+"note": "Blu-ray + DVD",
+"check": false
+},
+{
+"id": 1033,
+"title": "Underworld: Evolution",
+"year": 2006,
+"type": "Movie",
+"format": "Blu-ray",
+"copies": 1,
+"genres": [
+"Action",
+"Fantasy",
+"Horror"
+],
+"actors": [
+"Kate Beckinsale",
+"Scott Speedman",
+"Tony Curran"
+],
+"director": "Len Wiseman",
+"series": "Underworld",
+"photo": [
+33
+],
+"note": "",
+"check": false
+},
+{
+"id": 1034,
+"title": "Underworld: Awakening",
+"year": 2012,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Action",
+"Fantasy",
+"Horror"
+],
+"actors": [
+"Kate Beckinsale",
+"Stephen Rea",
+"Michael Ealy"
+],
+"director": "Måns Mårlind;Björn Stein",
+"series": "Underworld",
+"photo": [
+33
+],
+"note": "",
+"check": false
+},
+{
+"id": 1035,
+"title": "Apollo 18",
+"year": 2011,
+"type": "Movie",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Horror",
+"Sci-Fi",
+"Found Footage"
+],
+"actors": [
+"Warren Christie",
+"Lloyd Owen",
+"Ryan Robbins"
+],
+"director": "Gonzalo López-Gallego",
+"series": "",
+"photo": [
+33
+],
+"note": "",
+"check": false
+},
+{
+"id": 1036,
+"title": "Mercury Rising",
+"year": 1998,
+"type": "Movie",
+"format": "Blu-ray",
+"copies": 1,
+"genres": [
+"Action",
+"Crime",
+"Thriller"
+],
+"actors": [
+"Bruce Willis",
+"Alec Baldwin",
+"Miko Hughes"
+],
+"director": "Harold Becker",
+"series": "",
+"photo": [
+33
+],
+"note": "double feature with The Jackal",
+"check": false
+},
+{
+"id": 1037,
+"title": "The Jackal",
+"year": 1997,
+"type": "Movie",
+"format": "Blu-ray",
+"copies": 1,
+"genres": [
+"Action",
+"Crime",
+"Thriller"
+],
+"actors": [
+"Bruce Willis",
+"Richard Gere",
+"Sidney Poitier"
+],
+"director": "Michael Caton-Jones",
+"series": "",
+"photo": [
+33
+],
+"note": "double feature with Mercury Rising",
+"check": false
+},
+{
+"id": 1038,
+"title": "Gangster Squad",
+"year": 2013,
+"type": "Movie",
+"format": "Blu-ray",
+"copies": 1,
+"genres": [
+"Action",
+"Crime",
+"Drama"
+],
+"actors": [
+"Josh Brolin",
+"Ryan Gosling",
+"Sean Penn"
+],
+"director": "Ruben Fleischer",
+"series": "",
+"photo": [
+33
+],
+"note": "",
+"check": false
+},
+{
+"id": 1039,
+"title": "The Munsters",
+"year": 1964,
+"type": "TV",
+"format": "DVD",
+"copies": 1,
+"genres": [
+"Comedy",
+"Sitcom"
+],
+"actors": [
+"Fred Gwynne",
+"Yvonne De Carlo",
+"Al Lewis"
+],
+"director": "",
+"series": "green box set - check which seasons",
+"photo": [
+6
 ],
 "note": "",
 "check": false
